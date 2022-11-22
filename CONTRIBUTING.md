@@ -25,7 +25,7 @@ If you want to add a new resource, please follow these steps:
 
 #### File names
 
-File names should be in lowercase, and should use hyphens to separate words.
+File names should be in lowercase, and should use underscores to separate words.
 
 #### Image files
 
