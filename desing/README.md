@@ -1,2 +1,0 @@
-# resources
-Community shared resources
