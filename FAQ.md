@@ -1,6 +1,6 @@
 # Frequent Asked Questions
 
-Comonly asked questions about the project and hobby.
+Commonly asked questions about the project and hobby.
 
 
 ### What is a mechanical keyboard?

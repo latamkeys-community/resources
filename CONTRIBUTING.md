@@ -41,4 +41,4 @@ In case of the resource being a QMK keymap, please use the following naming conv
 
 If your username contains hyphens, please replace them with underscores. Try to use the same username that you use in the QMK configurator.
 
-Example: `planck/rev6/myth.json`
+Example: `planck-rev6-myth.json`
