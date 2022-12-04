@@ -1,0 +1,3 @@
+[submodule "3dprint/lily58-base"]
+	path = 3dprint/lily58-base
+	url = https://github.com/mcampo/lily58-base.git
