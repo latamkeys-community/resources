@@ -1,4 +1,4 @@
-# Lily58 Angled Base
+# Lily58 Angled Base by user mcampo
 
 Simple base for the [Lily58 keyboard](https://github.com/kata0510/Lily58).
 
@@ -18,9 +18,9 @@ To print both sides mirror the model in the slicer.
 
 ## Images
 
-![Angled front-left](https://raw.githubusercontent.com/mcampo/lily58-base/main/images/angled-front-left.jpg)
-![Angled back-bottom](https://raw.githubusercontent.com/mcampo/lily58-base/main/images/angled-back-bottom.jpg)
-![Left](https://raw.githubusercontent.com/mcampo/lily58-base/main/images/left.jpg)
+![Angled front-left](https://i.imgur.com/r28tl5H.jpeg)
+![Angled back-bottom](https://i.imgur.com/4REqq89.jpeg)
+![Left](https://i.imgur.com/63NTtoe.jpeg)
 
 *The PCB is added for reference but it's not part of the model*
 
