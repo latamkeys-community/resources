@@ -20,6 +20,7 @@ If you want to add a new resource, please follow these steps:
 3. Add a description of the new resource.
 4. In case of the resource being a fusion 360 file, please add a link to the fusion 360 file, and a link to the rendered image of the file.
 5. In case of the resource being a 3D model, please add a link to the 3D model, and a link to the rendered image of the model.
+6. Avoid using submodules. If you want to add a submodule, please contact the project maintainers or ask in the [Latamkeys Discord Server](https://discord.gg/latamkeys) in the `#sistemas` channel.
 
 ## Naming conventions for resources
 
