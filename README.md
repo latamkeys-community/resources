@@ -1,15 +1,13 @@
-# Latamkeys Community resources repository
+# Latamkeys Community Resources Repository
 
-This repository contains resources used by the Latamkeys community to help people learn about mechanical keyboards, and to help them build their own.
+Welcome to the Latamkeys Community Resources Repository! Here, you'll find a variety of resources compiled by our community to help individuals learn about mechanical keyboards and build their own.
 
-## What is Latamkeys?
+## About Latamkeys
 
-Latamkeys is a community of people who are passionate about mechanical keyboards. We are based in Latin America, but we welcome people from all over the world.
+Latamkeys is a vibrant community of individuals who are passionate about all things mechanical keyboards. Based in Latin America, we welcome members from around the globe to join us in sharing knowledge and experiences related to these specialized devices. In addition to being a community hub, we also operate a store that offers a range of mechanical keyboards, keycaps, and other accessories for enthusiasts.
 
-We are also a store that sells mechanical keyboards, keycaps, and other mechanical keyboard accessories.
+For answers to commonly asked questions, please refer to our [FAQ page](FAQ.md).
 
-For FAQs, please check [FAQ page](FAQ.md).
+## Contributing to the Repository
 
-## How to contribute
-
-If you want to contribute to this repository, please check [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome and encourage contributions to the Latamkeys Community Resources Repository. If you'd like to contribute, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and instructions on how to do so.
