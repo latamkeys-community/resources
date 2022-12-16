@@ -1,40 +1,39 @@
-# Contributing to the project
+# Contributing to the Project
 
-## How to contribute
+Welcome and thank you for considering contributing to the Latamkeys Community Resources Repository! Here are some guidelines to help you get started.
 
-If you want to add a new resource, please follow these steps:
+## How to Contribute
+
+To add a new resource to the repository, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch.
-3. Add the new resource.
-4. Commit the changes.
-5. Push the changes to your fork.
-6. Create a pull request.
+3. Add the new resource to the appropriate section.
+4. Add a link to the new resource in the table of contents, if needed.
+5. Provide a description of the new resource.
+6. If the resource is a Fusion 360 file, include a link to the file and a link to the rendered image of the file.
+7. If the resource is a 3D model, include a link to the model and a link to the rendered image of the model.
+8. Commit the changes.
+9. Push the changes to your fork.
+10. Create a pull request.
 
-## How to add a new resource
+Note: Please avoid using submodules. If you wish to add a submodule, contact the project maintainers or ask in the [Latamkeys Discord Server](https://discord.gg/latamkeys) in the `#sistemas` channel.
 
-If you want to add a new resource, please follow these steps:
+## Naming Conventions for Resources
 
-1. Add the new resource to the appropriate section.
-2. Add a link to the new resource in the table of contents if needed.
-3. Add a description of the new resource.
-4. In case of the resource being a fusion 360 file, please add a link to the fusion 360 file, and a link to the rendered image of the file.
-5. In case of the resource being a 3D model, please add a link to the 3D model, and a link to the rendered image of the model.
-6. Avoid using submodules. If you want to add a submodule, please contact the project maintainers or ask in the [Latamkeys Discord Server](https://discord.gg/latamkeys) in the `#sistemas` channel.
+Here are some guidelines for naming resources:
 
-## Naming conventions for resources
+#### File Names
 
-#### File names
+File names should be in lowercase and use underscores to separate words.
 
-File names should be in lowercase, and should use underscores to separate words.
+#### Image Files
 
-#### Image files
+Images should be uploaded to image hosting services such as Imgur, and the link to the image should be used in the markdown file instead of uploading the image directly to the repository.
 
-Images should be uploaded to image hosting services, such as imgur, and the link to the image should be used in the markdown file instead of uploading the image to the repository.
+#### QMK Keymaps
 
-#### QMK keymaps
-
-In case of the resource being a QMK keymap, please use the following naming convention:
+If the resource is a QMK keymap, please use the following naming convention:
 
 ```text
 <keyboard>-<layout>-<username>.json
