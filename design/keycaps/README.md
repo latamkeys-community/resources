@@ -1,5 +1,5 @@
-# Keycaps resoruces
+# Keycap Resources
 
-Here you will find resources for keycaps design such as 3D models, fusion 360 or Adobe Illustrator files that designers use when designing keycaps.
+Welcome to the keycap resources section! Here, you'll find a variety of resources related to keycap design, including 3D models, Fusion 360 files, and Adobe Illustrator files that designers use when creating custom keycaps.
 
-If you have a resource that you would like to share, please submit a pull request. Please follow the [contributing guidelines](../CONTRIBUTING.md) when submitting a pull request.
+If you have a resource that you'd like to share with the community, please feel free to submit a pull request following the guidelines outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).

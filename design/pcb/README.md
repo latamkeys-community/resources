@@ -1,26 +1,25 @@
 # PCB Resources
 
-PCB design resources for the community. If you have a resource that you would like to share, please submit a pull request. Please follow the [contributing guidelines](../CONTRIBUTING.md) when submitting a pull request.
+This repository contains PCB design resources for the mechanical keyboard community. If you have a resource you would like to share, please submit a pull request following the guidelines outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-### FAQ about PCB design
+### PCB Design FAQs
 
 #### What is a keyboard PCB?
 
-A PCB is a printed circuit board. It is a board that contains the electronic components of a keyboard. The PCB is the main component of a keyboard. It contains the microcontroller, the diodes, the switches, and the LEDs. The PCB is the part of the keyboard that is responsible for the behavior of the keyboard.
+A PCB, or printed circuit board, is the main component of a keyboard. It contains the microcontroller, diodes, switches, and LEDs that control the behavior and functionality of the keyboard.
 
-#### What is a Hotswap PCB?
+#### What is a hotswap PCB?
 
-A hotswap PCB is a PCB that allows you to swap switches without soldering. Hotswap PCBs are usually used in custom keyboards and are usually more expensive than soldered PCBs because they contain more components.
+A hotswap PCB is a type of PCB that allows users to easily swap out switches without the need for soldering. These PCBs are commonly used in custom keyboards and tend to be more expensive than soldered PCBs due to the additional components they contain.
 
 #### What is a soldered PCB?
 
-A soldered PCB is a PCB that requires soldering to install switches. Soldered PCBs are usually used in pre-built keyboards and are usually cheaper. Soldered PCBs are usually more reliable than hotswap PCBs because they contain fewer components and are less likely to fail, they are also easier to repair.
+A soldered PCB is a type of PCB that requires soldering in order to install switches. These PCBs are often used in pre-built keyboards and tend to be more cost-effective due to the fewer components they contain. Soldered PCBs are also generally more reliable and easier to repair compared to hotswap PCBs.
 
-### Kicad resources
+### Kicad Resources
 
-[Kicad](https://kicad.org) is an open source software for PCB design. It is widely used in the community. Kicad is available for Windows, macOS, and Linux.
+[Kicad](https://kicad.org) is an open-source software for PCB design that is widely used in the mechanical keyboard community. It is available for Windows, macOS, and Linux.
 
-### How to download Kicad
+### How to Download Kicad
 
-Kicad can be downloaded from the [Kicad website](https://kicad.org/download/). 
-
+Kicad can be downloaded from the official [Kicad website](https://kicad.org/download/). 

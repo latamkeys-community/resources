@@ -1,15 +1,15 @@
-# 3D Printed resources
+# 3D Printed Resources
 
-This is a collection of 3D printed resources submitted by the community. If you have a 3D printed resource you would like to share, please submit a pull request.
+Welcome to the collection of 3D printed resources submitted by our community! If you have a 3D printed resource you'd like to share, please submit a pull request following the guidelines in [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-### How to use 3D Print resources files?
+### Using 3D Printed Resource Files
 
-If you have a 3D printer, you can use the 3D printed resources files to print your own keyboard parts. If you don't have a 3D printer, you can use the 3D printed resources files to send to a 3D printing service. Keep in mind that 3D printing services may charge you for printing the parts and shipping the parts to you.
+If you own a 3D printer, you can use these resource files to print your own keyboard parts. If you don't have a 3D printer, you can still utilize these files by sending them to a 3D printing service. Keep in mind that some services may charge a fee for printing and shipping the parts to you.
 
-Most of the 3D printed resources files are in the STL format, which is the most common 3D printing format. If you are using a 3D printing service, you can upload the STL files to the service and order the parts to be printed. 
+Most of the resource files are in the STL format, which is a commonly used 3D printing format. To use them with a 3D printing service, simply upload the STL files and place an order for the parts to be printed.
 
-If you have any questions about an individual 3D printed resource, please contact the person who submitted the resource or join the [Latamkeys Discord Server](https://discord.gg/latamkeys) and ask in the `#3d-diy-handwire` channel.
+If you have any questions about an individual resource, feel free to contact the person who submitted it or join the [Latamkeys Discord Server](https://discord.gg/latamkeys) and ask in the `#3d-diy-handwire` channel.
 
-### How to contribute to the 3D Printed resources?
+### Contributing to the 3D Printed Resources
 
-If you have a 3D printed resource you would like to share, please submit a pull request. Please follow the [contributing guidelines](../CONTRIBUTING.md) when submitting a pull request.
+We welcome contributions to this collection of 3D printed resources. If you have a resource you'd like to share, please submit a pull request following the guidelines in [CONTRIBUTING.md](../CONTRIBUTING.md).
