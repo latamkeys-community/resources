@@ -77,12 +77,14 @@ Generalmente estos teclados suelen tener pines que representan las filas y las c
 Se haría lo mismo pero con dos pines menos en una matriz de 3x3.
 
 ## Case
+
 Podés usar el case que quieras, te dejo dos cases que funcionan con arduino nano.  
 * `./case/XxX`
 * Hicimos uno de 3x3 y uno de 4x4, cada uno tiene un case inclinado 5 grados y otro recto.
 
 Si se quiere modificar algo, está el archivo de Fusion 360 en `./case/XxX/macropad_XxX.f3d`.   
 Hecho por: Mante#7952 (discord).
+
 # EN
 Keyboards or macropads are usually made with Arduino Micro Pro. 
 However, you may not have one of these at your disposal or you may have made a mistake when buying (like me).
@@ -132,11 +134,13 @@ Generally these keyboards usually have pins that represent the rows and columns 
 You would do the same but with two less pins in a 3x3 matrix.  
   
 ## Case
+
 You can use any case you want, here are two cases that work with arduino nano.  
 * case/XxX`.
 * We made a 3x3 and a 4x4, each one has a case inclined 5 degrees and another one straight.
 
 If you want to modify something, there is the Fusion 360 file in `./case/XxX/macropad_XxX.f3d`.
+
   
 # Referencias / References
 Código principal: [@crixodia](https://www.twitter.com/crixodia), [código](https://github.com/crixodia/arduino-nano-macro-keypad/tree/master).  

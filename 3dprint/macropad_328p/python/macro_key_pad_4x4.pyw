@@ -2,6 +2,7 @@
 import pyautogui, sys, time, serial
 
 port = 'COM9'   #Windows COMX, u can look it in Arduino IDE
+
 baud = 9600
 
 NanoSerial = serial.Serial(port, baud)
