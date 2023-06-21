@@ -9,7 +9,7 @@ const char hexaKeys[ROWS][COLS] = {
   {'5', '6', '7', '8'},
   {'9', '10', '11', '12'},
   {'13', '14', '15', '16'}
-};
+ };
 
 //Digital pins for Rows and Cols
 byte rowPins[ROWS] = {9, 8, 7, 6};//connect to the row pinouts of the keypad
