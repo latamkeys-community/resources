@@ -10,6 +10,7 @@
     - [Configuración](#configuración)
     - [Cargar firmware](#cargar-firmware)
   - [VIAL](#vial)
+  - [Si querés cambiar algo, en mi repo está mi configuración sin compilar.](#si-querés-cambiar-algo-en-mi-repo-está-mi-configuración-sin-compilar)
 - [EN](#en)
   - [Materials](#materials)
   - [Steps to follow](#steps-to-follow)
@@ -18,6 +19,7 @@
     - [Configuration](#configuration)
     - [Load firmware](#load-firmware)
   - [VIAL](#vial-1)
+  - [If you want to change something, in my repo is my configuration without compiling.](#if-you-want-to-change-something-in-my-repo-is-my-configuration-without-compiling)
 - [Referencias / References](#referencias--references)
 
 ![my-redox](https://i.imgur.com/6SMD83O.jpeg)
@@ -84,12 +86,16 @@ Te tendria que aparecer un texto amarillo en el QMK Toolbox, cuando te aparezca 
 LISTO! Ya tenes tu teclado. Cuando quieras cambiar la configuración del QMK, lo cambias en `qmk_firmware/keyboards/redox/keymaps/default/keymap.c`, lo volves a compilar (`10. `) y lo volves a [Cargar](#cargar-firmware).  
 
 ## VIAL
-Hacemos el mismo proceso que en [QMK](#QMK), pero en lugar de utilizar `redox/keymaps/default` utilizamos `redox/keymaps/vial`, el cual debemos copiar y desde este repositorio `vial-qmk/keyboards/`.
+Hacemos el mismo proceso que en [QMK](#QMK), pero en lugar de utilizar `redox/keymaps/default` utilizamos `redox/keymaps/vial`, el cual debemos copiar y desde el repositorio [vial-qmk](https://github.com/vial-kb/vial-qmk).
 Yo lo que hago es compilarlo tal cual esta y después modificar el keymap en vial directamente.  
 Para hacer el paso 10, hacemos `qmk compile -kb redox -km vial`. buscamos `redox_rev1_base_vial` y subimos ese archivo con [QMK Toolbox](#cargar-firmware).  
 
 Descargar la app para modificar el teclado en [get vial](https://get.vial.today/download/).
 
+También se puede ocupar el .hex que dejo en el repositorio. `redox_rev1_base_vial.hex`.
+
+Si querés cambiar algo, en mi [repo](https://github.com/brockar/redox-handwired-3dp) está mi configuración sin compilar.
+---
 ---
 # EN
 I made a Redox Handwired following all the references I found but it seemed to me that everything was too scattered or poorly explained, so I will explain how to do it.
@@ -153,12 +159,19 @@ You should get a yellow text in the QMK Toolbox, when you get the second yellow 
 DONE! You have your keyboard. When you want to change the QMK configuration, change it in `qmk_firmware/keyboards/redox/keymaps/default/keymap.c`, recompile it (`10. `) and go back to [Load](#load-firmware).  
 
 ## VIAL
-We do the same process as in [QMK](#QMK), but instead of using `redox/keymaps/default` we use `redox/keymaps/vial`, which we must copy and from this repository `vial-qmk/keyboards/`.
+We do the same process as in [QMK](#QMK), but instead of using `redox/keymaps/default` we use `redox/keymaps/vial`, which we must copy and from the repository [vial-qmk](https://github.com/vial-kb/vial-qmk).  
 What I do is to compile it as it is and then modify the keymap in vial directly.  
 To do step 10, we do `qmk compile -kb redox -km vial`. We look for `redox_rev1_base_vial` and upload that file with [QMK Toolbox](#load-firmware).  
 
+
+
 Download the app to modify the keyboard in [get vial](https://get.vial.today/download/).
 
+You can also use the .hex left in the repository `redox_rev1_base_vial.hex`.
+
+If you want to change something, in my [repo](https://github.com/brockar/redox-handwired-3dp) is my configuration without compiling.
+---
+---
 # Referencias / References
 Proyecto HW: [@MattDB](https://www.thingiverse.com/thing:2704567).  
 Proyecto Original: [@mattdibi](https://github.com/mattdibi/redox-keyboard).  
